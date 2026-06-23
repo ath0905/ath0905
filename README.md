@@ -82,4 +82,7 @@
 </div>
 
 ---
-<p align="center"><i>"END OF LINE."</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ath0905&label=MAINFRAME+ACCESS+COUNT&color=00FFCC&style=for-the-badge" alt="Profile Views" />
+</p>
+
